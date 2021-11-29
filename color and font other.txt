@@ -1,0 +1,16 @@
+color
+======
+1st color #21243d
+2nd color #ffd17e
+white
+
+fonts
+=======
+montserrat regular
+montserrat  bold
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+(If you are a culinary fan, if you like to spend time in your kitchen, you likely find yourself
+looking for reliable resources through which you can)
+Phoebe Frazier
