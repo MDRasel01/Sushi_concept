@@ -6,9 +6,12 @@
 @media (min-width: 1281px) {
   
     /* CSS */
-    .bannner_text h1 {
-        font-size: 38px;
-        padding-left: 20px;
+    .menu_header {
+      padding: 37px 0px;
+    }
+
+    .statices {
+      height: 652px;
     }
     
   }
@@ -21,7 +24,88 @@
   @media (min-width: 1025px) and (max-width: 1280px) {
     
     /* CSS */
+    .bannner_text p {
+      margin: 30px 616px 44px 0px;
+    }
+
+    .bannner_text h1 {
+      font-size: 70px;
+    }
+
+    .bannner_text button {
+      padding: 9px 27px;
+      font-size: 13px;
+    }
+
+    .menu_header p {
+      margin: 0px 289px;
+    }
+
+    .popular_menu {
+      margin-top: 0px;
+    }
+    .first_here_text {
+      padding-left: 184px;
+    }
+
+    .sta_up p {
+      margin: 43px 271px 28px 271px;
+    }
+
+    .sta_down {
+      padding-left: 172px;
+    } 
+
+    .all_text {
+      padding: 100px 0px;
+    }
+
+    .all_text h1 {
+      padding-top: 64px;
+    }
+
+    .all_text p {
+      margin-right: 646px;
+    }
+
+    .p_text p {
+      margin: 0px 173px;
+          margin-top: 0px;
+          margin-bottom: 0px;
+      margin-bottom: 35px;
+      margin-top: 50px;
+      font-size: 19px;
+    }
+
+    .text p {
+      margin: 33px 279px 33px 264px;
+    }
+
     
+    form input {
+    
+        border: none;
+        border-radius: 46px;
+        position: absolute;
+        padding: 1px 70px 1px 14px;
+    
+    }
+
+    .text button {
+      border: none;
+      background-color: #21243d;
+      color: white;
+      padding: 4px 18px;
+      border-radius: 50px;
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+
+    .p_imag img {
+      height: 183px;
+    }
+  
+  
   }
   
   /* 
@@ -32,19 +116,212 @@
   @media (min-width: 768px) and (max-width: 1024px) {
     
     /* CSS */
-    
+    .bannner_text h1 {
+      font-size: 53px;
+    }
+
+    .bannner_text p {
+      margin: 30px 383px 44px 0px;
+    }
+
+    .bannner_text button {
+      padding: 5px 24px;
+    }
+
+    .popular_menu {
+      background-image: url('image/2nd\ bg.png');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      margin-top: -3px;
+      width: 100%;
+      height: 409px;
+    }
+
+    .menu_header h1 {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      font-size: 39px;
+      color: white;
+    }
+
+    .menu_header p {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 14px;
+      margin: 27px 205px;
+          margin-top: 27px;
+      margin-top: 0px;
+      color: white;
+      line-height: 20px;
+      margin-top: 28px;
+    }
+
+    .box_left img, .box_middle img, .box_right img {
+      width: 152px;
+    }
+
+
+    box_right p, .box_middle p, .box_right p {
+      margin: 0px 0px;
+    }
+
+    .first_here {
+      background-image: url('image/left\ design.png');
+      background-position: center;
+      background-size: cover;
+      height: 429px;
+      width: 100%;
+    }
+    .first_here_text h1 {
+      font-weight: bold;
+      font-size: 33px;
+    }
+
+    .first_here_text {
+      padding: 208px 0px;
+      text-align: left;
+    }
+
+    .first_here_text p {
+      color: black;
+      font-size: 11px;
+    }
+    .first_here_text {
+      padding: 131px 0px;
+      text-align: left;
+    }
+
+    .first_here_text button {
+      color: white;
+      background-color: #21243d;
+      border: none;
+      padding: 5px 16px;
+      border-radius: 50px;
+      font-size: 13px;
+    }
+
+    .sta_up h1 {
+      font-size: 38px;
+    }
+
+    .sta_up p {
+      color: white;
+      margin: 26px 0px;
+      margin: 23px 229px;
+      font-size: 13px;
+    }
+
+    .sta_down h2 {
+      color: white;
+      font-weight: 600;
+      border: 3px solid white;
+      width: 124px;
+      height: 123px;
+      border-radius: 100px;
+      margin-right: 46px;
+      padding-top: 25px;
+    }
+
+
+    .sta_down {
+      padding-left: 137px;
+      margin-bottom: 240px;
+    }
+
+    .title_here {
+      background-image: url('image/order\ now.png');
+      background-position: center;
+      background-size: cover;
+      width: 100%;
+      height: 443px;
+    }
+
+    .all_text h1 {
+      font-weight: bold;
+      font-size: 36px;
+    }
+
+    .all_text p {
+      color: black;
+      margin-right: 440px;
+      font-size: 14px;
+    }
+
+    .all_text button {
+      color: white;
+      background-color: #21243d;
+      border: none;
+      padding: 4px 20px;
+      border-radius: 50px;
+      font-size: 13px;
+    }
+
+    .p_text p {
+      margin: 0px 80px;
+          margin-top: 0px;
+      margin-top: 0px;
+      margin-top: 0px;
+      font-size: 18px;
+      color: #f4f4f4;
+      line-height: 36px;
+      margin-top: 66px;
+      font-weight: 300;
+    }
+
+    .p_text h4 {
+      color: #e1e0e0;
+      font-weight: 700;
+      margin-top: 24px;
+      font-size: 21px;
+    }
+  
+    .text h1 {
+      font-size: 32px;
+      font-weight: bold;
+    }
+
+    .text p {
+      color: black;
+      margin: 21px 194px 33px 167px;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 25px;
+    }
+
+    form input {
+      border: none;
+      border-radius: 46px;
+      position: absolute;
+      padding: 3px 72px 3px 16px;
+    }  
+
+    .text button {
+      border: none;
+      background-color: #21243d;
+      color: white;
+      padding: 6px 26px;
+      border-radius: 50px;
+      text-transform: uppercase;
+      font-weight: 600;
+      left: 293px;
+    }
+
+    .box_middle h4, p, .box_right h4, p {
+      color: white;
+      margin: 27px 0px;
+      font-size: 11px;
+      margin: 26px 0px;
+    }  
+
+    .footer_text ul li {
+      list-style: none;
+      font-size: 13px;
+      margin-left: -29px;
+      line-height: 36px;
+    } 
+  
   }
   
-  /* 
-    ##Device = Tablets, Ipads (landscape)
-    ##Screen = B/w 768px to 1024px
-  */
-  
-  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-    
-    /* CSS */
-    
-  }
   
   /* 
     ##Device = Low Resolution Tablets, Mobiles (Landscape)
@@ -54,9 +331,251 @@
   @media (min-width: 481px) and (max-width: 767px) {
     
     /* CSS */
+    .bannner_text h1 {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 50px;
+      font-weight: 600;
+      color: white;
+      padding-left: 23px;
+    }
+
+    .bannner_text p {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 15px;
+      margin: 30px 141px 44px 28px;
+      color: white;
+      font-weight: 500;
+    }
+
+    .bannner_text button {
+      font-family: 'Montserrat', sans-serif;
+      border: none;
+      padding: 7px 24px;
+      border-radius: 50px;
+      font-size: 13px;
+      background-color: #21243d;
+      font-weight: bold;
+      color: white;
+      margin-left: 27px;
+    }
+
+
+    .menu_header h1 {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      font-size: 32px;
+      color: white;
+      padding-top: 34px;
+    }
+
+    .menu_header p {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 13px;
+      margin: 0px 91px;
+          margin-top: 0px;
+      margin-top: 0px;
+      color: white;
+      line-height: 20px;
+      margin-top: 28px;
+    }
+
+
+    .d-flex {
+      display: block !important;
+    } 
     
-  }
+    .box_left img, .box_middle img, .box_right img {
+      width: 165px;
+    }
+
+    .box_left h4, p, .box_middle h4, p, .box_right h4, p {
+      color: white;
+      margin: 26px 0px;
+      font-size: 16px;
+    }
+
+    .box_left p, .box_middle p, .box_right  p {
+      color: white;
+      margin: 24px 65px;
+      font-size: 15px;
+    }
+
+    .first_here {
+      background-image: url('image/left\ design.png');
+      background-position: center;
+      background-size: cover;
+      width: 100%;
+      height: 292px;
+    }
+
+    .first_here_text {
+      padding: 85px 0px;
+          padding-right: 0px;
+      padding-right: 39px;
+      text-align: left;
+    }
+
+
+    .first_here_text h1 {
+      font-weight: bold;
+      font-size: 30px;
+    }
+
+    .box_left h4, p, .box_middle h4, p, .box_right h4, p {
+      color: white;
+      margin: 26px 0px;
+      font-size: 13px;
+    }
+
+    .first_here_text button {
+      color: white;
+      background-color: #21243d;
+      border: none;
+      padding: 3px 19px;
+      border-radius: 50px;
+      font-size: 13px;
+    }
+
+    .first_here_text {
+      padding: 85px 0px;
+          padding-right: 0px;
+          padding-left: 0px;
+      padding-right: 0px;
+      padding-left: 48px;
+      text-align: left;
+    }
+
+    .sta_up h1 {
+      font-size: 37px;
+    }
+
+    .sta_up p {
+      color: white;
+      margin: 24px 82px;
+    }
+
+    .sta_down {
+      padding-left: 169px;
+      margin-bottom: 240px;
+    }
+
+
+    .sta_down h2 {
+      color: white;
+      font-weight: 600;
+      border: 3px solid white;
+      width: 148px;
+      height: 142px;
+      border-radius: 100px;
+      margin-right: 60px;
+      padding-top: 36px;
+    }
+
+    .title_here {
+      background-image: url('image/order\ now.png');
+      background-position: center;
+      background-size: cover;
+      width: 100%;
+      height: 367px;
+    }
+
+    .all_text h1 {
+      font-weight: bold;
+      font-size: 34px;
+      padding-left: 21px;
+    }
+
+    .all_text {
+      padding: 55px 0px;
+    }
+
+    .all_text p {
+      color: black;
+      margin-right: 143px;
+      margin-left: 20px;
+    }
+
+    .all_text button {
+      color: white;
+      background-color: #21243d;
+      border: none;
+      padding: 3px 18px;
+      border-radius: 50px;
+      font-size: 13px;
+      margin-left: 15px;
+    }
+
+    .p_imag img {
+      width: 130px;
+    }
+
+    .p_text p {
+      margin: 0px 56px;
+          margin-top: 0px;
+      margin-top: 0px;
+      margin-top: 0px;
+      font-size: 16px;
+      color: #f4f4f4;
+      line-height: 36px;
+      margin-top: 66px;
+      font-weight: 300;
+    }
+
+
+    .text h1 {
+      font-size: 32px;
+      font-weight: bold;
+    }
+
+    .text p {
+      color: black;
+      margin: 21px 53px 33px 63px;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 25px;
+    }
+
+
+    form input {
+      border: none;
+      border-radius: 46px;
+      position: absolute;
+      padding: 2px 57px 2px 12px;
+      margin-left: 53px;
+    }
+
+    .text button {
+      border: none;
+      background-color: #21243d;
+      color: white;
+      padding: 4px 13px;
+      border-radius: 50px;
+      text-transform: uppercase;
+      font-weight: 600;
+      left: 251px;
+    }
+
+
+    .footer {
+      background-color: #0d0f1e;
+      color: white;
+      padding: 151px 0px;
+      text-align: center;
+    }
+
+    .box_left h4, p, .box_middle h4, p, .box_right h4, p {
+      color: white;
+      margin: 21px 31px;
+      font-size: 13px;
+    }
+
+    .company img {
+      width: 137px;
+      height: 24px;
+      margin: 20px 0px;
+    }
   
+  }
   /* 
     ##Device = Most of the Smartphones Mobiles (Portrait)
     ##Screen = B/w 320px to 479px
