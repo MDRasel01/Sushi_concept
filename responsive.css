@@ -595,7 +595,7 @@
     }.bannner_text p {
       font-family: 'Montserrat', sans-serif;
       font-size: 14px;
-      margin: 30px 4px 44px 18px;
+      margin: 30px 19px 44px 18px;
       color: white;
       font-weight: 500;
     }
@@ -687,17 +687,17 @@
       background-position: center;
       background-size: cover;
       width: 100%;
-      height: 400px;
+      height: 536px;
     }
 
     .first_here_text {
-      padding: 57px 0px;
+      padding: 153px 0px;
       text-align: left;
-      margin-left: 103px;
+      margin-left: 122px;
     }
 
     .sta_down {
-      padding-left: 75px;
+      padding-left: 102px;
       margin-bottom: 240px;
     }
 
@@ -723,7 +723,7 @@
 
     .all_text p {
       color: black;
-      margin-right: 22px;
+      margin-right: 71px;
     }
 
 
@@ -781,7 +781,7 @@
       border-radius: 46px;
       position: absolute;
       padding: 1px 0px 1px 13px;
-      margin-left: 23px;
+      margin-left: 58px;
     }
 
     .text button {
@@ -792,7 +792,7 @@
       border-radius: 50px;
       text-transform: uppercase;
       font-weight: 600;
-      left: 162px;
+      left: 197px;
     }
     
     .footer {
