@@ -575,6 +575,8 @@
       margin: 20px 0px;
     }
   
+  
+  
   }
   /* 
     ##Device = Most of the Smartphones Mobiles (Portrait)
@@ -584,5 +586,229 @@
   @media (min-width: 320px) and (max-width: 480px) {
     
     /* CSS */
+    .bannner_text h1 {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 38px;
+      font-weight: 600;
+      margin-left: 14px;
+      color: white;
+    }.bannner_text p {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 14px;
+      margin: 30px 4px 44px 18px;
+      color: white;
+      font-weight: 500;
+    }
+
+    .bannner_text button {
+      font-family: 'Montserrat', sans-serif;
+      border: none;
+      padding: 5px 26px;
+      border-radius: 50px;
+      font-size: 12px;
+      background-color: #21243d;
+      font-weight: bold;
+      color: white;
+      margin-left: 18px;
+    }
+
+    .menu_header h1 {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      font-size: 28px;
+      color: white;
+      padding-top: 31px;
+    }
+
+    .box_left img, .box_middle img, .box_right img {
+      width: 160px;
+    }
+
+    .d-flex {
+      display: block !important;
+    }
+
+    .box_left p, .box_middle p, .box_right p {
+      color: white;
+      margin: 0px 31px;
+      margin-bottom: 70px;
+    }
+
+
+    ._section_menu {
+      padding: px 0px 79px 0px;
+    }
+
+    .menu_header p {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 14px;
+      margin: 0px 12px;
+          margin-top: 0px;
+      margin-top: 0px;
+      color: white;
+      line-height: 20px;
+      margin-top: 28px;
+    }
+    .first_here_text h1 {
+      font-weight: bold;
+      font-size: 25px;
+    }
+
+    .all_image_box {
+    margin-left: 0px;
+    }
+
+    .first_here_text h1 {
+    font-weight: bold;
+    font-size: 37px;
+    }
+    .first_here_text p {
+      color: black;
+      font-size: 13px;
+    }
+
+    .first_here_text button {
+      color: white;
+      background-color: #21243d;
+      border: none;
+      padding: 3px 18px;
+      border-radius: 50px;
+      font-size: 14px;
+    }
+
+    .first_here_text {
+      padding: 208px 0px;
+      text-align: left;
+      margin-left: 49px;
+    }
+
+    .first_here {
+      background-image: url('image/left\ design.png');
+      background-position: center;
+      background-size: cover;
+      width: 100%;
+      height: 400px;
+    }
+
+    .first_here_text {
+      padding: 57px 0px;
+      text-align: left;
+      margin-left: 103px;
+    }
+
+    .sta_down {
+      padding-left: 75px;
+      margin-bottom: 240px;
+    }
+
+    .sta_up {
+      color: white;
+      padding-bottom: 0px;
+      padding-top: 80px;
+    }
+
+    .sta_up p {
+      color: white;
+      margin: 26px 0px;
+    }
+
+    .all_text {
+      padding: 0px;
+    }
+
+    .all_text h1 {
+      font-weight: bold;
+      font-size: 37px;
+    }
+
+    .all_text p {
+      color: black;
+      margin-right: 22px;
+    }
+
+
+    .all_text button {
+      color: white;
+      background-color: #21243d;
+      border: none;
+      padding: 2px 15px;
+      border-radius: 50px;
+      font-size: 13px;
+    }
+
+    .title_here {
+      background-image: url('image/order\ now.png');
+      background-position: center;
+      background-size: cover;
+      width: 100%;
+      height: 500px;
+  }
+
+    .all_text {
+      padding-top: 63px;
+      padding-left: 20px;
+    }
+  
+  
+    .p_imag img {
+      height: 150px;
+    }
+
+    .p_text p {
+      margin: 0px 5px;
+          margin-top: 0px;
+      margin-top: 0px;
+      margin-top: 0px;
+      font-size: 13px;
+      color: #f4f4f4;
+      line-height: 36px;
+      margin-top: 66px;
+      font-weight: 300;
+    }
+    .text {
+      padding: 41px 0px;
+    }
+
+    .text p {
+      color: black;
+      margin: 19px 14px;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 25px;
+    }
+    form input {
+      border: none;
+      border-radius: 46px;
+      position: absolute;
+      padding: 1px 0px 1px 13px;
+      margin-left: 23px;
+    }
+
+    .text button {
+      border: none;
+      background-color: #21243d;
+      color: white;
+      padding: 1px 15px;
+      border-radius: 50px;
+      text-transform: uppercase;
+      font-weight: 600;
+      left: 162px;
+    }
     
+    .footer {
+      background-color: #0d0f1e;
+      color: white;
+      padding: 151px 0px;
+      text-align: center;
+    }
+
+    .about h4{
+      padding-top: 20px;
+    }
+
+    .about h4, .order_now{
+      cursor: pointer;
+    }
+  
+
   }
